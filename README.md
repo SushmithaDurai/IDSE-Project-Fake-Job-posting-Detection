@@ -1,6 +1,7 @@
 # Fake Job Posting Detection
 
-Data science project (Part A). Authors: [add your names here]
+Data science project (Part A). 
+ME24B1016-Suranjana Mary, ME24B1020-Sushmitha, ME24B1025-Rakshana
 
 ## Problem
 
