@@ -95,7 +95,6 @@ fake-job-detection/
 
 - Small test set (171 fakes), so recall is uncertain by about 6 points.
 - About a quarter of fake postings are missed at the chosen setting. Catching more means many more false alarms.
-- The data is from 2012 to 2014 and scam patterns have changed.
 - The `country` feature may reflect how the data was collected, not how scams work.
 - Near-duplicate and template postings may remain after removing exact duplicates.
 - Professional-looking scams are missed, and the text model uses word counts only.
