@@ -2,7 +2,7 @@
 
 Data science project (Part A). 
 
-ME24B1016-Suranjana Mary, ME24B1020-Sushmitha, ME24B1025-Rakshana
+ME24B1016-Suranjana Mary, ME24B1020-Sushmitha, ME24b1025-Rakshana M
 
 ## Problem
 
