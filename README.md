@@ -93,7 +93,6 @@ fake-job-detection/
 
 ## Limitations
 
-- Small test set (171 fakes), so recall is uncertain by about 6 points.
 - About a quarter of fake postings are missed at the chosen setting. Catching more means many more false alarms.
 - The `country` feature may reflect how the data was collected, not how scams work.
 - Near-duplicate and template postings may remain after removing exact duplicates.
