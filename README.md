@@ -1,12 +1,10 @@
 # Fake Job Posting Detection
 
-<<<<<<< HEAD
-Data science project (Part A). Authors: [add your names here]
-=======
-Data science project(Part-A)
+
+Data science project (Part A)
+
 
 ME24B1016-Suranjana Mary, ME24B1020-Sushmitha, ME24B1025-Rakshana M
->>>>>>> 0aa1447369f8a06468691afb5ee5e687a79bbe06
 
 ## Problem
 
@@ -103,10 +101,4 @@ fake-job-detection/
 - A single length term cannot capture the U-shaped relationship between description length and fake rate.
 - The `country` feature may reflect how the data was collected, not how scams work.
 - Near-duplicate and template postings may remain after removing exact duplicates.
-<<<<<<< HEAD
-- Professional-looking scams are missed, and the text model uses word counts only.
 
-Possible next steps: sentence embeddings or a transformer model, a human review step for postings near the cut-off, and testing on newer data.
-=======
-- The text model uses word counts only, so professional-looking scams can be missed.
->>>>>>> 0aa1447369f8a06468691afb5ee5e687a79bbe06
