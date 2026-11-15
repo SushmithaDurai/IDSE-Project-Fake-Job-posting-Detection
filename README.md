@@ -1,8 +1,6 @@
 # Fake Job Posting Detection
 
-Data science project (Part A). 
-
-ME24B1016-Suranjana Mary, ME24B1020-Sushmitha, ME24b1025-Rakshana M
+Data science project (Part A). Authors: [add your names here]
 
 ## Problem
 
@@ -97,3 +95,5 @@ fake-job-detection/
 - The `country` feature may reflect how the data was collected, not how scams work.
 - Near-duplicate and template postings may remain after removing exact duplicates.
 - Professional-looking scams are missed, and the text model uses word counts only.
+
+Possible next steps: sentence embeddings or a transformer model, a human review step for postings near the cut-off, and testing on newer data.
